@@ -9,5 +9,5 @@
 <img src="https://github.com/Alaecio/projeto3/blob/b6887607e2f574c4c15aaec63ef7d2c4f865d746/img3/Captura%20de%20tela%202024-02-19%20201142.png?raw=true">
 <br>
 <br>
-<img> src="https://github.com/Alaecio/projeto3/blob/965be9dde5a11d3264876d1c234a7615d95c548e/img3/2img3.png?raw=true">
+<img src="https://github.com/Alaecio/projeto3/blob/965be9dde5a11d3264876d1c234a7615d95c548e/img3/2img3.png?raw=true">
 
